@@ -1,0 +1,18 @@
+h1 {
+	color:gray;
+	text-align: center;
+} 
+
+#paragraph1 {
+	color: turquoise;
+	text-align: center;
+}
+
+#paragraph2 {
+	color:indigo;
+}
+
+.blue-text {
+	color: blue;
+	font-size:16px;
+}
